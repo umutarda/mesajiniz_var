@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+    <question>
+        <qu type="AnsImageEng"> 
+            <prompt> Which one is a clock? </prompt>
+
+            <choices> 
+                <choice> kitap </choice>  
+                <choice> kalem </choice>
+                <choice> kulaklık </choice>
+                <choice> lamba </choice>
+                <choice> saat </choice> 
+                <choice> makas </choice>  	
+            </choices>
+
+            <answers>
+                <answer> saat </answer>
+            </answers>
+        </qu>
+
+    </question>
+
+    <question>
+        <qu type="TextEng"> 
+            <prompt> Are you __________ English teacher?</prompt>
+
+            <choices> 
+                <choice> Maria </choice>  
+                <choice> Marias' </choice>
+                <choice> Maria's </choice>
+                <choice> Maria' </choice>
+	
+            </choices>
+            <answers>
+                <answer> Maria's </answer>
+            </answers>
+        </qu>
+
+    </question> 
+
+    <question>
+        <qu type="TextEng"> 
+                        <prompt> A: Sorry, I’m so late.
+B: That’s __________. </prompt>
+            <choices> 
+                <choice> right </choice>  
+                <choice> OK </choice>
+                <choice> great </choice>
+                <choice> important </choice>
+ 	
+            </choices>
+
+            <answers>
+                <answer> OK </answer>
+            </answers>
+            
+        </qu>
+
+    </question> 
+
+    <question>
+        <qu type="AudioEng"> 
+            <prompt> Bu-insanlar-kütüphanede-eng </prompt>
+
+            <choices> 
+                <choice> These people are in the library. </choice>  
+                <choice> These people are in library. </choice>
+                <choice> This people are in the library. </choice>
+                <choice> This people are in library. </choice>	
+            </choices>
+
+            <answers>
+                <answer> These people are in the library. </answer>
+            </answers>
+
+        </qu>
+
+    </question> 
+
+    <question>
+        <qu type="ImageEng"> 
+            <prompt> tesla</prompt>
+
+            <choices> 
+                <choice> Albert Einstein </choice>  
+                <choice> Thomas Edison </choice>
+                <choice> Galileo Galilei </choice>
+                <choice> Nicola Tesla </choice>	
+            </choices>
+
+            <answers>
+                <answer> Nicola Tesla </answer>
+            </answers>
+        </qu>
+
+    </question> 
+          
+</questions>

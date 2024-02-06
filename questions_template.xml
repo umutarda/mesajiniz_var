@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+
+    <question>
+        <qu type="Yazı-Resim"> 
+            <prompt> saattir? </prompt>
+
+            <choices> 
+                <choice> kitap </choice>  
+                <choice> kalem </choice>
+                <choice> kulaklık </choice>
+                <choice> lamba </choice>
+                <choice> saat </choice> 
+                <choice> makas </choice>  	
+            </choices>
+            <answer> saat </answer>
+        </qu>
+
+    </question>
+
+    <question>
+        <qu type="Yazı-Yazı"> 
+            <prompt> A: Hasta mısın?
+B: Evet, biraz ateşim var.
+A:------------------------</prompt>
+
+            <choices> 
+                <choice> Afiyet olsun. </choice>  
+                <choice> Çok yaşa. </choice>
+                <choice> Sağ ol. </choice>
+                <choice> Geçmiş olsun. </choice>
+	
+            </choices>
+            <answer> Geçmiş olsun. </answer>
+        </qu>
+
+    </question> 
+
+    <question>
+        <qu type="Yazı-Yazı"> 
+            <prompt> A: Hapşuuuu.
+B:------------------------ </prompt>
+
+            <choices> 
+                <choice> Affedersiniz. </choice>  
+                <choice> Teşekkürler. </choice>
+                <choice> Çok yaşa. </choice>
+                <choice> Sağ ol. </choice>
+ 	
+            </choices>
+            <answer> Çok yaşa. </answer>
+        </qu>
+
+    </question> 
+
+    <question>
+        <qu type="Ses-Yazı"> 
+            <prompt> Bu-insanlar-kütüphanede </prompt>
+
+            <choices> 
+                <choice> Ofiste. </choice>  
+                <choice> Kütüphanede. </choice>
+                <choice> Havalimanında. </choice>
+                <choice> Otelde. </choice>	
+            </choices>
+            <answer> Kütüphanede. </answer>
+        </qu>
+
+    </question> 
+
+    <question>
+        <qu type="Resim-Yazı"> 
+            <prompt> tesla</prompt>
+
+            <choices> 
+                <choice> Albert Einstein </choice>  
+                <choice> Thomas Edison </choice>
+                <choice> Galileo Galilei </choice>
+                <choice> Nicola Tesla </choice>	
+            </choices>
+            <answer> Nicola Tesla </answer>
+        </qu>
+
+    </question> 
+          
+</questions>
